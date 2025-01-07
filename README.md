@@ -7,7 +7,12 @@ Il récupère les données des options Apple (AAPL) en temps réel grâce à l'A
 
 ## Prérequis :
 - Python 3.x installé  
-- Pip installé (gestionnaire de paquets Python)  
+- Pip installé (gestionnaire de paquets Python)
+- yfinance
+- scipy
+- pandas
+- matplotlib
+
 
 ## Installation des dépendances :
 Clonez le dépôt et installez les dépendances avec :  
